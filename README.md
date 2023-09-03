@@ -1,6 +1,6 @@
 # CS-Study
 
-> 2023년 9월부터 진행하는 CS 스터디입니다. <br> > [면접을 위한 CS 전공지식 노트](https://product.kyobobook.co.kr/detail/S000001834833)를 읽으며 학습한 내용을 정리하고 공유합니다.
+> 2023년 9월부터 진행하는 CS 스터디입니다. <br> [면접을 위한 CS 전공지식 노트](https://product.kyobobook.co.kr/detail/S000001834833)를 읽으며 학습한 내용을 정리하고 공유합니다.
 
 <br>
 
